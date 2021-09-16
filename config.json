@@ -1,0 +1,15 @@
+{
+    "prefix":"-",
+    "DiscordServerID":"845976369813127176",
+    "DiscordBotToken":"ODA5NDA3MDk4OTQwMDMxMDY2.YCUpGg.npeiTeYraRN40U3f0c6dK98H-LY",
+    "AutoFTopChannelID":"845976369813127178",
+    "AutoFTopEnabled":true,
+    "serverIP":"play.vanitymc.co",
+    "serverPort":25565,
+    "altEmail":"amber_chaleen@hotmail.com",
+    "altPassword":"Jameson19?",
+    "altVersion":"1.8",
+    "joinCMD":"/register ciao123 ciao123",
+    "ftopCMD":"/is top",
+    "autoFTopTimeRange":"0,10"
+}
